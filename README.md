@@ -43,9 +43,7 @@
 </div>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zuhaib786&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zuhaib786)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaib786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 zuhaib786/zuhaib786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
